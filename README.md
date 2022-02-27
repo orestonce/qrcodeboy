@@ -7,8 +7,8 @@ This is a windows app which can scan and generate qr code offline. 这是一款�
 * 调用摄像头扫描二维码、扫描图片中的二维码
 
 ## 致谢:
-	* https://github.com/makiuchi-d/gozxing
-	* https://github.com/live-in-a-dream/Qt-Toast
+  * https://github.com/makiuchi-d/gozxing
+  * https://github.com/live-in-a-dream/Qt-Toast
 
 ### 下载
-	* https://github.com/orestonce/qrcodeboy/releases
+  * https://github.com/orestonce/qrcodeboy/releases

@@ -1,5 +1,5 @@
 # qrcodeboy
-This is a windows app which can scan and generate qr code offline. 这是一款可以离线扫描生成二维码的windows应用。
+This is a windows app which can scan and create qr code offline. 这是一款可以离线扫描、创建二维码的windows应用。
 
 # 支持的操作
 

@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+/qrcodeboy-qt/QrcodeBoy-qt.pro.user
+/.idea

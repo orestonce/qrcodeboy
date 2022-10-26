@@ -6,11 +6,8 @@ import (
 )
 
 func main() {
-	ctx := go2cpp.NewGo2cppContext(go2cpp.NewGo2cppContextReq{
+	ctx := go2cpp.NewGo2cppContext(go2cpp.NewGo2cppContext_Req{
 		CppBaseName:       "qrcodeboygo",
-		EnableQt:          false,
-		QtExtendBaseClass: "",
-		QtIncludeList:     nil,
 	})
 	ctx.Generate1(qrcodeboy.QrcodePngToText)
 	ctx.Generate1(qrcodeboy.TextToQrcodePng)

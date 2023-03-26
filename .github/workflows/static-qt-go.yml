@@ -54,6 +54,6 @@ jobs:
       - name: upload release windows_386_qt
         uses: Guerra24/upload-to-release@v1
         with:
-          name: Ip2regionTool_qt_windows_386-${{ github.ref_name }}.exe
+          name: qrcodeboy-qt_windows_386-${{ github.ref_name }}.exe
           path: qrcodeboy-qt\release\qrcodeboy-qt.exe
           repo-token: ${{ secrets.GITHUB_TOKEN }}
